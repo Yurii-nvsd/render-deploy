@@ -1,0 +1,63 @@
+# Visual Studio user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vscode/
+.idea/
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+Publish/
+
+# SQL Server project artifacts
+*.dbmdl
+*.pdb
+*.dacpac
+*.log
+*.sqlproj.user
+
+# Local configuration files
+appsettings.*.json
+.env
+
+# Visual Studio-specific files
+.vs/
+.vsidx
+
+# Backup files
+*.bak
+*.bacpac
+*.trx
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Code coverage and test results
+*.coverage
+*.coveragexml
+TestResults/
+
+# Other common binary files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.class
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+
